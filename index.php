@@ -85,72 +85,48 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">gallery</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Beberapa Foto Kegiatan</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="gallery-item">
                             <div class="gallery-images">
-                                <img class="img-fluid" src="assets/img/gallery/01-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="gallery-caption">
-                                <div class="gallery-caption-heading">Threads</div>
-                                <div class="gallery-caption-subheading text-muted">Illustration</div>
+                                <img class="img-fluid" src="assets/img/gallery/galeri1.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="gallery-item">
                             <div class="gallery-images">
-                                <img class="img-fluid" src="assets/img/gallery/02-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="gallery-caption">
-                                <div class="gallery-caption-heading">Explore</div>
-                                <div class="gallery-caption-subheading text-muted">Graphic Design</div>
+                                <img class="img-fluid" src="assets/img/gallery/galeri2.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="gallery-item">
                             <div class="gallery-images">
-                                <img class="img-fluid" src="assets/img/gallery/03-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="gallery-caption">
-                                <div class="gallery-caption-heading">Finish</div>
-                                <div class="gallery-caption-subheading text-muted">Identity</div>
+                                <img class="img-fluid" src="assets/img/gallery/galeri3.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
                         <div class="gallery-item">
                             <div class="gallery-images">
-                                <img class="img-fluid" src="assets/img/gallery/04-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="gallery-caption">
-                                <div class="gallery-caption-heading">Lines</div>
-                                <div class="gallery-caption-subheading text-muted">Branding</div>
+                                <img class="img-fluid" src="assets/img/gallery/galeri4.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                         <div class="gallery-item">
                             <div class="gallery-images">
-                                <img class="img-fluid" src="assets/img/gallery/05-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="gallery-caption">
-                                <div class="gallery-caption-heading">Southwest</div>
-                                <div class="gallery-caption-subheading text-muted">Website Design</div>
+                                <img class="img-fluid" src="assets/img/gallery/galeri5.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <div class="gallery-item">
                             <div class="gallery-images">
-                                <img class="img-fluid" src="assets/img/gallery/06-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="gallery-caption">
-                                <div class="gallery-caption-heading">Window</div>
-                                <div class="gallery-caption-subheading text-muted">Photography</div>
+                                <img class="img-fluid" src="assets/img/gallery/galeri6.jpeg" alt="" />
                             </div>
                         </div>
                     </div>

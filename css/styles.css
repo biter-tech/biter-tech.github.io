@@ -7970,49 +7970,6 @@ header.masthead {
     position: relative;
     display: block;
     margin: 0 auto; }
-  #gallery .gallery-item .gallery-caption {
-    padding: 1.5rem;
-    text-align: center;
-    background-color: #fff; }
-    #gallery .gallery-item .gallery-caption .gallery-caption-heading {
-      font-size: 1.5rem;
-      font-family: "Fira Code", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-      font-weight: 700;
-      margin-bottom: 0; }
-    #gallery .gallery-item .gallery-caption .gallery-caption-subheading {
-      font-style: italic;
-      font-family: "Fira Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-
-.gallery-modal .modal-dialog {
-  margin: 1rem;
-  max-width: 100vw; }
-.gallery-modal .modal-content {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  text-align: center; }
-  .gallery-modal .modal-content h2 {
-    font-size: 3rem;
-    line-height: 3rem; }
-  .gallery-modal .modal-content p.item-intro {
-    font-style: italic;
-    margin-bottom: 2rem;
-    font-family: "Fira Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-  .gallery-modal .modal-content p {
-    margin-bottom: 2rem; }
-  .gallery-modal .modal-content ul.list-inline {
-    margin-bottom: 2rem; }
-  .gallery-modal .modal-content img {
-    margin-bottom: 2rem; }
-.gallery-modal .close-modal {
-  position: absolute;
-  top: 1.5rem;
-  right: 1.5rem;
-  width: 3rem;
-  height: 3rem;
-  cursor: pointer;
-  background-color: transparent; }
-  .gallery-modal .close-modal:hover {
-    opacity: 0.3; }
 
 .timeline {
   position: relative;
