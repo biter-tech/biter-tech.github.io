@@ -40,8 +40,8 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-heading text-uppercase"><img src="assets/img/biter.png" alt="" width="40%" /></div>
-                <div class="masthead-heading text-uppercase">Biter Technology</div>
-                <div class="masthead-subheading text-uppercase">Gadgets Repair</div>
+                <!-- <div class="masthead-heading text-uppercase">Biter Technology</div>
+                <div class="masthead-subheading text-uppercase">Gadgets Repair</div> -->
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Layanan Kami</a>
             </div>
         </header>
