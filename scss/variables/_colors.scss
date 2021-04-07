@@ -1,0 +1,9 @@
+// Override Bootstrap color system
+$blue : #00bfffff;
+// Override Bootstrap default state colors
+
+$primary: $blue;
+
+// Override Bootstrap yiq lightness value
+
+$yiq-contrasted-threshold: 205;
