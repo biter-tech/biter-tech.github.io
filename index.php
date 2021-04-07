@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ml-auto">
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Layanan</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Galeri</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#gallery">Galeri</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Tentang</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Team</a></li>
                         <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li> -->
@@ -80,77 +80,77 @@
                 </div>
             </div>
         </section>
-        <!-- Portfolio Grid-->
-        <section class="page-section bg-light" id="portfolio">
+        <!-- gallery Grid-->
+        <section class="page-section bg-light" id="gallery">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Portfolio</h2>
+                    <h2 class="section-heading text-uppercase">gallery</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <div class="portfolio-item">
-                            <div class="portfolio-images">
-                                <img class="img-fluid" src="assets/img/portfolio/01-thumbnail.jpg" alt="" />
+                        <div class="gallery-item">
+                            <div class="gallery-images">
+                                <img class="img-fluid" src="assets/img/gallery/01-thumbnail.jpg" alt="" />
                             </div>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <div class="portfolio-item">
-                            <div class="portfolio-images">
-                                <img class="img-fluid" src="assets/img/portfolio/02-thumbnail.jpg" alt="" />
-                            </div>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                            <div class="gallery-caption">
+                                <div class="gallery-caption-heading">Threads</div>
+                                <div class="gallery-caption-subheading text-muted">Illustration</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <div class="portfolio-item">
-                            <div class="portfolio-images">
-                                <img class="img-fluid" src="assets/img/portfolio/03-thumbnail.jpg" alt="" />
+                        <div class="gallery-item">
+                            <div class="gallery-images">
+                                <img class="img-fluid" src="assets/img/gallery/02-thumbnail.jpg" alt="" />
                             </div>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                            <div class="gallery-caption">
+                                <div class="gallery-caption-heading">Explore</div>
+                                <div class="gallery-caption-subheading text-muted">Graphic Design</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="gallery-item">
+                            <div class="gallery-images">
+                                <img class="img-fluid" src="assets/img/gallery/03-thumbnail.jpg" alt="" />
+                            </div>
+                            <div class="gallery-caption">
+                                <div class="gallery-caption-heading">Finish</div>
+                                <div class="gallery-caption-subheading text-muted">Identity</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-                        <div class="portfolio-item">
-                            <div class="portfolio-images">
-                                <img class="img-fluid" src="assets/img/portfolio/04-thumbnail.jpg" alt="" />
+                        <div class="gallery-item">
+                            <div class="gallery-images">
+                                <img class="img-fluid" src="assets/img/gallery/04-thumbnail.jpg" alt="" />
                             </div>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                            <div class="gallery-caption">
+                                <div class="gallery-caption-heading">Lines</div>
+                                <div class="gallery-caption-subheading text-muted">Branding</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-                        <div class="portfolio-item">
-                            <div class="portfolio-images">
-                                <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
+                        <div class="gallery-item">
+                            <div class="gallery-images">
+                                <img class="img-fluid" src="assets/img/gallery/05-thumbnail.jpg" alt="" />
                             </div>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                            <div class="gallery-caption">
+                                <div class="gallery-caption-heading">Southwest</div>
+                                <div class="gallery-caption-subheading text-muted">Website Design</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <div class="portfolio-item">
-                            <div class="portfolio-images">
-                                <img class="img-fluid" src="assets/img/portfolio/06-thumbnail.jpg" alt="" />
+                        <div class="gallery-item">
+                            <div class="gallery-images">
+                                <img class="img-fluid" src="assets/img/gallery/06-thumbnail.jpg" alt="" />
                             </div>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                            <div class="gallery-caption">
+                                <div class="gallery-caption-heading">Window</div>
+                                <div class="gallery-caption-subheading text-muted">Photography</div>
                             </div>
                         </div>
                     </div>
