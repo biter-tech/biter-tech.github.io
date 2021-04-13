@@ -164,7 +164,7 @@
                             <h4>Nur Faturullah</h4>
                             <p class="text-muted">Teknisi 2 | Administrator</p>
                             <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/fatur_fawkes/"><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="http://wa.me/6282126318417http://wa.me/6282126318417"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="http://wa.me/6282126318417"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
