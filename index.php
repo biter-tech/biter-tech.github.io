@@ -154,9 +154,8 @@
                             <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="" />
                             <h4>Andrian Wicaksono</h4>
                             <p class="text-muted">Teknisi 1 | HUMAS</p>
-                            <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/andriyann81/"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="http://wa.me/628889749796"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4 mx-auto">
@@ -164,9 +163,8 @@
                             <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="" />
                             <h4>Nur Faturullah</h4>
                             <p class="text-muted">Teknisi 2 | Administrator</p>
-                            <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/fatur_fawkes/"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="http://wa.me/6282126318417http://wa.me/6282126318417"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
